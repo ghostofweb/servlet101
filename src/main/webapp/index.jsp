@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset = "UTF-8">
+<link rel="stylesheet" href="<%=application.getContextPath()%>/css/style.css"/>
 <title>This is my project</title>
 </head>
 <body>
